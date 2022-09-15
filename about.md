@@ -4,26 +4,14 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hello world
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+*Bonjour !* I'm a french AI researcher specialized in NLP and graphs. 
 
-There are currently two themes built on Poole:
+Find me on:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* [LinkedIn](https://www.linkedin.com/in/antoine-saillenfest-phd-513a0a40/)
+* [Google Scholar](https://scholar.google.com/citations?user=iehCMKgAAAAJ&hl=en)
+* [Twitter](https://twitter.com/toinesayan) (for personal stuff)
+* [Instagram](https://www.instagram.com/toinesayan/) (for personal stuff)
