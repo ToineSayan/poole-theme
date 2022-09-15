@@ -3,6 +3,10 @@ layout: page
 title: Home
 ---
 
+<p align="center">
+  <img src="{{ site.url }}/public/pictures/me/a_saillenfest.jpg" width="50%" alt="Antoine Saillenfest">
+</p>
+
 Find me on:
 
 * [LinkedIn](https://www.linkedin.com/in/antoine-saillenfest-phd-513a0a40/)
