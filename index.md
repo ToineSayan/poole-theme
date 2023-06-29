@@ -21,7 +21,9 @@ You can find all of my publications by following [this link](https://toinesayan.
 
 * Machine Learning & Deep Learning. (2023) [ECE Lyon - MSc Data Engineer & Intelligence Artificielle](https://www.ece.fr/program/msc-data-engineer-intelligence-artificielle/)
 
-## Former Master Interns
+## Master Interns
+
+* (2023) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Hierarchical Classification_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
 
 * (2022) [Angelo Ortiz-Tandanzo](https://www.linkedin.com/in/angelo-ortiz-tandazo-77289aa7?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABa78MYBxvBTxIpmov_OUaivV57gn4ylE78&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B7c1rLp3wTt%2B5h7lbDrCJNw%3D%3D). _Word-Sense Disambiguation by Graph Analysis_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
 
