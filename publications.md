@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ## Preprints
-* **[under review]** Lemberger, P., & Saillenfest, A. (2023). [Fair Evaluation of Graph Markov Neural Networks.](https://arxiv.org/abs/2304.01235).
+* **[under review]** Lemberger, P., & Saillenfest, A. (2023). [Fair Evaluation of Graph Markov Neural Networks](https://arxiv.org/abs/2304.01235).
 
 ## Journal articles
 * **[journal**] Saillenfest, A., & Dessalles, J. L. (2014). [Can Believable Characters act Unexpectedly?.](https://academic.oup.com/dsh/article-abstract/29/4/606/982697) Literary and Linguistic Computing, 29(4), 606-620.
