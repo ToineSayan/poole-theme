@@ -17,6 +17,9 @@ Currently, I am interested in the causal evaluation of biases related to concept
 
 You can find all of my publications by following [this link](https://toinesayan.github.io/publications/).
 
+For research/education purpose, I built a dataset: [Wikivitals-lvl5-04-2022](https://github.com/ToineSayan/wikivitals-lvl5-04-2022).
+This dataset was built from Wikivitals articles of level 5. It is a corpus of ~48.5k documents with an underlying graph structure (~2,3M edges) and a 3-level hierarchy of labels.
+
 ## Teaching
 
 * Machine Learning & Deep Learning. (2023) [ECE Lyon - MSc Data Engineer & Intelligence Artificielle](https://www.ece.fr/program/msc-data-engineer-intelligence-artificielle/)
