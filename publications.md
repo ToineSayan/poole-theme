@@ -4,7 +4,8 @@ title: Publications
 ---
 
 ## Preprints
-* **[under review]** Lemberger, P., & Saillenfest, A. (2023). [Fair Evaluation of Graph Markov Neural Networks](https://arxiv.org/abs/2304.01235).
+* **[under review]** Lemberger, P., & Saillenfest, A. (2023). [How Graph Structure and Label Dependencies Contribute to Node Classification in a Large Network of Documents](https://arxiv.org/abs/2304.01235).
+* **[under review]** Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://arxiv.org/abs/2402.00711).
 
 ## Journal articles
 * **[journal**] Saillenfest, A., & Dessalles, J. L. (2014). [Can Believable Characters act Unexpectedly?.](https://academic.oup.com/dsh/article-abstract/29/4/606/982697) Literary and Linguistic Computing, 29(4), 606-620.
