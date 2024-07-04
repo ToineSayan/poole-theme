@@ -24,6 +24,11 @@ This dataset was built from Wikivitals articles of level 5. It is a corpus of ~4
 
 * Machine Learning & Deep Learning. (2023) [ECE Lyon - MSc Data Engineer & Intelligence Artificielle](https://www.ece.fr/program/msc-data-engineer-intelligence-artificielle/)
 
+## Supervised PhD Students
+
+* (2024, September - ...) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Apprentissage et Manipulation de Représentations de Données
+Textuelles Structurées (Learning and Manipulating Structured Text Data Representations)_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
+
 ## Supervised Master's Students
 
 * (2023) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Hierarchical Classification_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
