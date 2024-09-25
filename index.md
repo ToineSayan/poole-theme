@@ -27,22 +27,24 @@ I am interested in the causal evaluation of biases related to concepts such as g
 For research/education purpose, I built a dataset: [Wikivitals-lvl5-04-2022](https://github.com/ToineSayan/wikivitals-lvl5-04-2022).
 This dataset was built from Wikivitals articles of level 5. It is a corpus of ~48.5k documents with an underlying graph structure (~2,3M edges) and a 3-level hierarchy of labels.
 
-## Supervised PhD Students
+## Supervision and teaching activities
+
+### PhD students
 
 * (2024, September - ...) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Apprentissage et Manipulation de Représentations de Données
 Textuelles Structurées (Learning and Manipulating Structured Text Data Representations)_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
 
-## Supervised Master's Students
+### Master's students
 
 * (2023) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Hierarchical Classification_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
 
 * (2022) [Angelo Ortiz-Tandanzo](https://www.linkedin.com/in/angelo-ortiz-tandazo-77289aa7?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABa78MYBxvBTxIpmov_OUaivV57gn4ylE78&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B7c1rLp3wTt%2B5h7lbDrCJNw%3D%3D). _Word-Sense Disambiguation by Graph Analysis_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
 
-## Teaching
+### Teaching
 
 * Machine Learning & Deep Learning. (2023) [ECE Lyon - MSc Data Engineer & Intelligence Artificielle](https://www.ece.fr/program/msc-data-engineer-intelligence-artificielle/)
 
-## Social Networks
+## Social networks
 
 * [Github](https://github.com/ToineSayan)
 * [LinkedIn](https://www.linkedin.com/in/antoine-saillenfest-phd-513a0a40/)
