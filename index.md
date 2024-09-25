@@ -9,20 +9,23 @@ title: Home
 
 I am a researcher at [onepoint](https://www.groupeonepoint.com/), a member of the [TALia laboratory](https://laboratoire-talia.telecom-paris.fr), which is a joint research unit between [Télécom Paris](https://www.telecom-paris.fr/) and onepoint.<br/>
 My research work focuses on the areas of deep learning, NLP, and cognitive sciences.<br/><br/>
-Keywords: #DeepLearning #NLP #CognitiveSciences #Causality #Graphs
+
+Keywords: Deep Learning, NLP, Cognitive Sciences, Causality, Graphs
 
 ## Research
 
-Currently, I am interested in the causal evaluation of biases related to concepts such as gender or race in the field of NLP.
+### Recent publications
+* Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). Revisiting Hierarchical Text Classification: Inference and Metrics *(accepted for publication at CoNLL 2024)*
+* Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://arxiv.org/abs/2402.00711). *(accepted for publication at ECAI 2024)*
+  
+**[See all of my publications](https://toinesayan.github.io/publications/)**.
 
-You can find all of my publications by following [this link](https://toinesayan.github.io/publications/).
+### Current projects
+
+I am interested in the causal evaluation of biases related to concepts such as gender or race in the field of NLP.
 
 For research/education purpose, I built a dataset: [Wikivitals-lvl5-04-2022](https://github.com/ToineSayan/wikivitals-lvl5-04-2022).
 This dataset was built from Wikivitals articles of level 5. It is a corpus of ~48.5k documents with an underlying graph structure (~2,3M edges) and a 3-level hierarchy of labels.
-
-## Teaching
-
-* Machine Learning & Deep Learning. (2023) [ECE Lyon - MSc Data Engineer & Intelligence Artificielle](https://www.ece.fr/program/msc-data-engineer-intelligence-artificielle/)
 
 ## Supervised PhD Students
 
@@ -34,6 +37,10 @@ Textuelles Structurées (Learning and Manipulating Structured Text Data Represen
 * (2023) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Hierarchical Classification_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
 
 * (2022) [Angelo Ortiz-Tandanzo](https://www.linkedin.com/in/angelo-ortiz-tandazo-77289aa7?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABa78MYBxvBTxIpmov_OUaivV57gn4ylE78&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B7c1rLp3wTt%2B5h7lbDrCJNw%3D%3D). _Word-Sense Disambiguation by Graph Analysis_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
+
+## Teaching
+
+* Machine Learning & Deep Learning. (2023) [ECE Lyon - MSc Data Engineer & Intelligence Artificielle](https://www.ece.fr/program/msc-data-engineer-intelligence-artificielle/)
 
 ## Social Networks
 
