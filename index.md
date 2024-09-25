@@ -18,7 +18,7 @@ Keywords: Deep Learning, NLP, Cognitive Sciences, Causality, Graphs
 * Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). Revisiting Hierarchical Text Classification: Inference and Metrics *(accepted for publication at CoNLL 2024)*
 * Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://arxiv.org/abs/2402.00711). *(accepted for publication at ECAI 2024)*
   
-**[See all of my publications](https://toinesayan.github.io/publications/)**.
+**[See all my publications](https://toinesayan.github.io/publications/)**.
 
 ### Current projects
 
