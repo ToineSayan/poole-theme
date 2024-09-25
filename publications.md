@@ -10,8 +10,8 @@ title: Publications
 * **[journal**] Saillenfest, A., & Dessalles, J. L. (2014). [Can Believable Characters act Unexpectedly?.](https://academic.oup.com/dsh/article-abstract/29/4/606/982697) Literary and Linguistic Computing, 29(4), 606-620.
 
 ## Conference and workshop proceedings
-* **[workshop]** Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). Revisiting Hierarchical Text Classification: Inference and Metrics *(accepted for publication at CoNLL 2024)*
-* **[conference]** Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://arxiv.org/abs/2402.00711). *(accepted for publication at ECAI 2024)*
+* **[workshop]** Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). Revisiting Hierarchical Text Classification: Inference and Metrics *(accepted for publication at CoNLL 2024 - 28th Conference on Computational Natural Language Learning)*
+* **[conference]** Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://arxiv.org/abs/2402.00711). *(accepted for publication at ECAI 2024 - 27th European Conference on Artificial Intelligence)*
 * **[conference]** Sileno, G., Saillenfest, A., & Dessalles, J. L. (2017, December). [A Computational Model of Moral and Legal Responsibility via Simplicity Theory.](https://ebooks.iospress.nl/publication/48059) In 30th international conference on Legal Knowledge and Information Systems (JURIX 2017) (Vol. 302, pp. 171-176). IOS Press.
 * **[conference]** Saillenfest, A., Dessalles, J. L., & Auber, O. (2016, June). [Role of Simplicity in Creative Behaviour: The Case of the Poietic Generator.](http://www.computationalcreativity.net/iccc2016/wp-content/uploads/2016/01/Role-of-Simplicity-in-Creative-Behaviour.pdf) In Proceedings of the Seventh International Conference on Computational Creativity.
 * **[conference]** Saillenfest, A., & Dessalles, J. L. (2015, July). [Some Probability Judgments may rely on Complexity Assessments.](https://cogsci.mindmodeling.org/2015/papers/0357/paper0357.pdf) In CogSci 2015 (pp. 2069-2074). Austin, TX: Cognitive Science Society
