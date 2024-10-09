@@ -6,8 +6,8 @@ title: Publications
 ## Preprints
 * **[under review]** Lemberger, P., & Saillenfest, A. (2023). [How Graph Structure and Label Dependencies Contribute to Node Classification in a Large Network of Documents](https://arxiv.org/abs/2304.01235).
 
-## Published articles
-* **[workshop]** Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). [Revisiting Hierarchical Text Classification: Inference and Metrics](https://arxiv.org/abs/2410.01305) *(accepted for publication at CoNLL 2024 - 28th Conference on Computational Natural Language Learning)*
+## Published
+* **[conference]** Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). [Revisiting Hierarchical Text Classification: Inference and Metrics](https://arxiv.org/abs/2410.01305) *(accepted for publication at CoNLL 2024 - 28th Conference on Computational Natural Language Learning)*
 * **[conference]** Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://arxiv.org/abs/2402.00711). *(accepted for publication at ECAI 2024 - 27th European Conference on Artificial Intelligence)*
 * **[conference]** Sileno, G., Saillenfest, A., & Dessalles, J. L. (2017, December). [A Computational Model of Moral and Legal Responsibility via Simplicity Theory.](https://ebooks.iospress.nl/publication/48059) In 30th international conference on Legal Knowledge and Information Systems (JURIX 2017) (Vol. 302, pp. 171-176). IOS Press.
 * **[conference]** Saillenfest, A., Dessalles, J. L., & Auber, O. (2016, June). [Role of Simplicity in Creative Behaviour: The Case of the Poietic Generator.](http://www.computationalcreativity.net/iccc2016/wp-content/uploads/2016/01/Role-of-Simplicity-in-Creative-Behaviour.pdf) In Proceedings of the Seventh International Conference on Computational Creativity.
