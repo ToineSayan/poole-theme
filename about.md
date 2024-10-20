@@ -11,6 +11,16 @@ title: About
 * 2010 - **EHESS**, Paris, France <br/> M.Sc. in Cognitive Science
 
 ## Supervision activities
+
+### PhD students
+
+* (2024, September - ...) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Apprentissage et Manipulation de Représentations de Données
+Textuelles Structurées (Learning and Manipulating Structured Text Data Representations)_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
+
+### Master's students
+
+* [end-of-study internship] (2023) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Hierarchical Classification_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
+
 * [end-of-study internship] (2022) [Angelo Ortiz-Tandanzo](https://www.linkedin.com/in/angelo-ortiz-tandazo-77289aa7?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABa78MYBxvBTxIpmov_OUaivV57gn4ylE78&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B7c1rLp3wTt%2B5h7lbDrCJNw%3D%3D)<br/>
 Dissertation title: Word-Sense Disambiguation by Graph Analysis.<br/>
 Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
