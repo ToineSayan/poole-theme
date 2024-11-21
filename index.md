@@ -15,8 +15,8 @@ Keywords: Deep Learning, NLP, Cognitive Sciences, Causality, Graphs
 ## Research
 
 ### Recent publications
-* Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). [Revisiting Hierarchical Text Classification: Inference and Metrics](https://arxiv.org/abs/2410.01305) *(accepted for publication at CoNLL 2024)*
-* Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://arxiv.org/abs/2402.00711). *(accepted for publication at ECAI 2024)*
+* Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). [Revisiting Hierarchical Text Classification: Inference and Metrics](https://aclanthology.org/2024.conll-1.18/), CoNLL 2024
+* Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://ebooks.iospress.nl/doi/10.3233/FAIA240576), ECAI 2024
   
 **[See all my publications](https://toinesayan.github.io/publications/)**.
 
@@ -46,24 +46,11 @@ Textuelles Structurées (Learning and Manipulating Structured Text Data Represen
 
 ## External links
 
-  <a
-  id="cy-effective-orcid-url"
-  class="underline"
-   href="https://orcid.org/0009-0000-5709-9193"
-   target="orcid.widget"
-   rel="me noopener noreferrer"
-   style="vertical-align: top">
-   <img
-      src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-      style="width: 1em; margin-inline-start: 0.5em"
-      alt="ORCID iD icon"/>
-    https://orcid.org/0009-0000-5709-9193
-  </a>
-
 * [Github](https://github.com/ToineSayan)
 * [LinkedIn](https://www.linkedin.com/in/antoine-saillenfest-phd-513a0a40/)
 * [Google Scholar](https://scholar.google.com/citations?user=iehCMKgAAAAJ&hl=en)
 * [DPLB](https://dblp.org/pid/133/6082.html)
+* [ORCID - id: 0009-0000-5709-9193](https://orcid.org/0009-0000-5709-9193)
   
 * [Twitter](https://twitter.com/toinesayan) (for personal stuff)
 * [Instagram](https://www.instagram.com/toinesayan/) (for personal stuff)
