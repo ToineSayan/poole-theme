@@ -44,10 +44,26 @@ Textuelles Structurées (Learning and Manipulating Structured Text Data Represen
 
 * Machine Learning & Deep Learning. (2023) [ECE Lyon - MSc Data Engineer & Intelligence Artificielle](https://www.ece.fr/program/msc-data-engineer-intelligence-artificielle/)
 
-## Social networks
+## External links
+
+  <a
+  id="cy-effective-orcid-url"
+  class="underline"
+   href="https://orcid.org/0009-0000-5709-9193"
+   target="orcid.widget"
+   rel="me noopener noreferrer"
+   style="vertical-align: top">
+   <img
+      src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+      style="width: 1em; margin-inline-start: 0.5em"
+      alt="ORCID iD icon"/>
+    https://orcid.org/0009-0000-5709-9193
+  </a>
 
 * [Github](https://github.com/ToineSayan)
 * [LinkedIn](https://www.linkedin.com/in/antoine-saillenfest-phd-513a0a40/)
 * [Google Scholar](https://scholar.google.com/citations?user=iehCMKgAAAAJ&hl=en)
+* [DPLB](https://dblp.org/pid/133/6082.html)
+  
 * [Twitter](https://twitter.com/toinesayan) (for personal stuff)
 * [Instagram](https://www.instagram.com/toinesayan/) (for personal stuff)
